@@ -39,5 +39,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 # Nathan Lee's first  CS193 Homework
 
 - not a lot of homework (yet)
+- favorite thing #2
+- favorite thing #3
 
 
